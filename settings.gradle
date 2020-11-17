@@ -1,3 +1,2 @@
 include ':commons'
 include ':app'
-rootProject.name = "dimeno-commons"

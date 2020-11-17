@@ -1,8 +1,8 @@
-# dimeno-commons
+# commons
 > 公共类库
 
 [![Platform](https://img.shields.io/badge/Platform-Android-00CC00.svg?style=flat)](https://www.android.com)
-[![](https://jitpack.io/v/dimeno-tech/dimeno-commons.svg)](https://jitpack.io/#dimeno-tech/dimeno-commons)
+[![](https://jitpack.io/v/lavalike/commons.svg)](https://jitpack.io/#lavalike/commons)
 
 ### 依赖导入
 
@@ -21,7 +21,7 @@ allprojects {
 
 ``` gradle
 dependencies {
-	implementation 'com.github.dimeno-tech:dimeno-commons:0.0.1'
+	implementation 'com.github.lavalike:commons:0.0.1'
 }
 ```
 
