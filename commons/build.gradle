@@ -1,5 +1,4 @@
 apply plugin: 'com.android.library'
-apply plugin: 'android-aspectjx'
 apply plugin: 'kotlin-android'
 
 android {
@@ -35,7 +34,6 @@ android {
 dependencies {
     implementation fileTree(dir: "libs", include: ["*.jar"])
     implementation 'androidx.appcompat:appcompat:1.2.0'
-    api 'org.aspectj:aspectjrt:1.9.5'
     implementation 'com.google.code.gson:gson:2.8.6'
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'androidx.constraintlayout:constraintlayout:2.0.2'
