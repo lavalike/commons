@@ -1,4 +1,4 @@
-package com.wangzhen.commons.widget.fitwindows
+package com.wangzhen.commons.fitwindows
 
 import android.annotation.TargetApi
 import android.content.Context

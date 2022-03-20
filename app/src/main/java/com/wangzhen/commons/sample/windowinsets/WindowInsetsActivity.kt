@@ -6,8 +6,8 @@ import android.view.View
 import androidx.annotation.RequiresApi
 import com.wangzhen.commons.sample.BaseActivity
 import com.wangzhen.commons.sample.R
-import com.wangzhen.commons.widget.fitwindows.FitType
-import com.wangzhen.commons.widget.fitwindows.FitWindowsFrameLayout
+import com.wangzhen.commons.fitwindows.FitType
+import com.wangzhen.commons.fitwindows.FitWindowsFrameLayout
 
 /**
  * WindowInsetsActivity

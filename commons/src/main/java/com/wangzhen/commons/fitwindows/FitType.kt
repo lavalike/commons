@@ -1,4 +1,4 @@
-package com.wangzhen.commons.widget.fitwindows
+package com.wangzhen.commons.fitwindows
 
 /**
  * fit windows type

@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".windowinsets.ViewPagerSampleActivity">
 
-    <com.wangzhen.commons.widget.fitwindows.FitWindowsViewPager
+    <com.wangzhen.commons.fitwindows.FitWindowsViewPager
         android:id="@+id/pager"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
